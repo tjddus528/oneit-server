@@ -9,6 +9,9 @@
   <a href="https://www.oneit.gift">
     <img src="https://github.com/user-attachments/assets/ca8726d2-8175-44fe-b3a9-47cb71402851" width="200px" />
   </a>
+  <h5>
+  📍 모바일웹(웹앱)으로 제작되었으므로, 이동 후 F12(개발자도구)로 보시는 걸 권장합니다 📍
+  </h5>
 </div>
 
 <div align="center">
